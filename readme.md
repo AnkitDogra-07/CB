@@ -101,3 +101,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 We extend our gratitude to our internal supervisor, Dr. Neelam Chaplot, for the constant support and guidance throughout the project. We also thank Dr. Neha Chaudhary, Head of the Department of CSE, and all faculty members and staff for their support.
+
+Developed by:
+- Ankit Dogra (219302300)
+- Pulkit Bhatt (219301408)
+
+Department of Computer Science & Engineering, Manipal University Jaipur
+
+---
+
+This README provides a comprehensive overview of the "Chatbot for Technology" project, detailing its objectives, features, and setup instructions. For further details, refer to the project documentation and code comments.
